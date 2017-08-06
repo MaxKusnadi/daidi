@@ -1,0 +1,3 @@
+SQLALCHEMY_DATABASE_URI = "postgresql:///daidi"
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+SECRET_KEY = "this is secret"
